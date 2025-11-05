@@ -4,7 +4,7 @@ This project focuses on analyzing employee data to help the HR department make d
 
 The goal is to convert raw HR data into actionable insights that improve employee retention and optimize organizational performance.
 
-🎯 Objectives
+ Objectives
 
 To understand workforce demographics and employee turnover trends.
 
@@ -14,7 +14,7 @@ To visualize HR metrics such as gender ratio, age distribution, department growt
 
 To support HR decision-making through interactive dashboards.
 
-🧰 Tools & Technologies
+ Tools & Technologies
 
 Data Sources: CSV/Excel dataset (HR records)
 
@@ -26,7 +26,7 @@ Data Analysis: Microsoft Excel (Pivot Tables, Charts, Power Query)
 
 Skills Used: SQL Queries, DAX Measures, Data Cleaning, Dashboard Design
 
-🔍 Key Steps
+ Key Steps
 
 Data Extraction & Cleaning — Imported HR dataset into SQL & Excel, removed duplicates, and standardized formats.
 
@@ -36,7 +36,7 @@ Power BI Dashboard Development — Built interactive visuals using DAX functions
 
 Insight Reporting — Shared visual summaries highlighting workforce trends and HR challenges.
 
-📊 Key Insights
+ Key Insights
 
 High attrition observed among employees aged 25–35 with <3 years of service.
 
@@ -46,7 +46,7 @@ Employee satisfaction directly correlates with career growth and recognition.
 
 Workforce gender diversity ratio improved by 12% year-over-year.
 
-💼 Skills Demonstrated
+ Skills Demonstrated
 
 SQL Query Writing (Joins, Aggregations, Filtering)
 
